@@ -43,7 +43,7 @@ h1 {
     height: 100%;
     padding-top: 177.7778%;
     padding-bottom: 48px;
-    box-shadow: 2px 0px 8px 0px rgba(63, 69, 81, 0.16);
+    box-shadow: 2px 0px 8px 0px rgba(63, 69, 81, 0.10);
     margin-top: 0;
     margin-bottom: 0;
     overflow: hidden;
@@ -63,7 +63,7 @@ h1 {
     background-color: #F6C71E;
 }
 
-.footer2{
+/*.footer2{
     z-index: 1;
     position: fixed;
     left: 0;
@@ -72,4 +72,4 @@ h1 {
     height: 8%;
     background-color:#F6C71E;
     padding: 0;
-}
+}*/
